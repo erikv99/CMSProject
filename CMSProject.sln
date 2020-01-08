@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CMSProject", "CMSProject\CMSProject.pyproj", "{3284B62A-276E-4B79-B70C-A0E5FB1F7239}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3284B62A-276E-4B79-B70C-A0E5FB1F7239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3284B62A-276E-4B79-B70C-A0E5FB1F7239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA1C96C2-D274-443E-BE8F-3998194E2237}
+	EndGlobalSection
+EndGlobal
