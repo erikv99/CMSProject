@@ -22,6 +22,16 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="CMSProject.py" />
+    <Compile Include="createWidgets.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="GUIClass.py" />
+    <Compile Include="handleCSS.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="handleHTML.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
